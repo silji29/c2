@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+*{margin: 0; padding: 0; list-style: none; text-decoration: none; box-sizing: border-box; color: #333;}
+button{border: none; background: none; cursor: pointer; outline: none;}
+a{display: block;}
+img{display: block;}
